@@ -1,4 +1,14 @@
 # Unit 4 Homework: Pandas, Pandas, Pandas
+
+## PyCity Schools Written Report
+
+*Conclusion 1*: Analysis of education spending per student reveals a correlation between lower spending and higher pass rates in both math and reading. However, when examining the average scores in math and reading, no significant improvement is observed when comparing pass marks to those of higher spending schools.
+
+*Conclusion 28: Small and medium-sized schools display comparable pass rates, with 89.9% and 90.6% respectively. However, larger schools exhibit a significantly lower overall pass rate of 58.3%, presenting a marked contrast to the pass rates of smaller and medium-sized schools.
+
+*Bonus Conclusion*: Charter schools demonstrate a superior academic performance as evidenced by their higher overall pass rate of 90.4%, in contrast to district schools, which have an overall pass rate of 53.7%. This significant discrepancy can primarily be attributed to the disparity in math pass rates, with charter schools exhibiting a 93.6% pass rate, while district schools display a 66.5% pass rate.
+__________________________________________________________________________________________________________________________________________________________
+
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
 
